@@ -18,7 +18,7 @@ $engine->eTemplate("include","header");
 <header>
 	<h1>SciFinder Scholar</h1>
 </header>
-
+<p><a class="button" href="http://www.libproxy.wvu.edu/login?url=https://scifinder.cas.org/registration/index.html?corpKey=92E01248-86F3-F00A-118B-5F2F72172EFA">Create an Account</a><a class="button" href="http://www.libproxy.wvu.edu/login?url=https://scifinder.cas.org">Logon to Scifinder</a></p>
 <h2>
 			      Description:
 			    </h2>
